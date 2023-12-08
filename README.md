@@ -17,5 +17,5 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/maurovera/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
-https://es.linkedin.com/in/david-risue%C3%B1o-lablanca-98bb98194?trk=public_profile_browsemap
+<a href="https://es.linkedin.com/in/david-risue%C3%B1o-lablanca-98bb98194?trk=public_profile_browsemap"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Risueño-blue?style=flat-square&logo=linkedin"></a>
+
