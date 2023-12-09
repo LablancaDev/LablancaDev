@@ -18,7 +18,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 ### Contact Me
-<a href="https://es.linkedin.com/in/david-risue%C3%B1o-lablanca-98bb98194?trk=public_profile_browsemap"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Risueño-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://es.linkedin.com/in/davidLablanca?trk=public_profile_browsemap"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-davidLablanca-blue?style=flat-square&logo=linkedin"></a>
 <a href="lablancadev@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Hotmail-lablancadev@hotmail.com-blue?style=flat-square&logo=hotmail"></a>  
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=LablancaDev&show_icons=true)
