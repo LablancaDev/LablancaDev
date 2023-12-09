@@ -1,6 +1,6 @@
-<h2>Hi 👋, I'm David Risueño Lablanca</h2> 
+<h2>Hi 👋, I'm David Risueño Lablanca </h2>
 
-  Passionate about technology and in constant learning.
+  Passionate about technology and in constant learning. From Spain
   
  ### About Me
  
