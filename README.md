@@ -7,7 +7,7 @@
 - 🔭I am currently finishing DAW, doing an internship in a company as a web developer.
 - 🌱 I'm currently learning React and Typescript
 - 📫How to contact me valenciano_david@hotmail.com or lablancadev@hotmail.com
-- 📄Learn about my experiences... Although I have no formal professional experience, I have worked on various projects independently and during my academic training. I have created a personal portfolio where I describe the technologies I am currently learning and using. I also show other projects       I've been working on.
+- 📄Learn about my experiences... Although I don't have much formal professional experience, I have worked on various projects independently and during my academic training. I have created a personal portfolio where I describe the technologies I am currently learning and using. I also show other        projects I've been working on.
 
 ### I have knowledge about :
 
